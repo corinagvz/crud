@@ -1,0 +1,22 @@
+body{
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    }
+    .container{
+    background: #fff;
+    padding: 4%;
+    border-radius: 6px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .1);
+    }
+
+.table td {
+    vertical-align: baseline !important;
+}
+
+.table {
+    border-radius: 3px !important;
+    overflow: hidden;
+}
